@@ -52,6 +52,17 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Yacht Luxury Colors
+				ocean: {
+					deep: 'hsl(var(--ocean-deep))',
+					medium: 'hsl(var(--ocean-medium))',
+					light: 'hsl(var(--ocean-light))'
+				},
+				pearl: 'hsl(var(--pearl-white))',
+				champagne: 'hsl(var(--champagne))',
+				teak: 'hsl(var(--teak-wood))',
+				steel: 'hsl(var(--steel-gray))',
+				luxury: 'hsl(var(--luxury-gold))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
